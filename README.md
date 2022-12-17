@@ -1,3 +1,5 @@
 # SplitNet
 
-Code will be uploaded soon
+Code will be uploaded soon.
+
+check out our [project page](https://ku-cvlab.github.io/SplitNet/).
